@@ -31,7 +31,7 @@ p{
     font-family: Arial;
     width: 90%;
 margin-top:5px
-font-size:bold
+font-weight:bold
 
 }
 
@@ -102,7 +102,7 @@ font-size:bold
     }
 p{
 padding-top:5px
-font-size:5ox
+font-size:10px
 }
     .col-md-1{
         width:8.33%

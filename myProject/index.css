@@ -17,7 +17,7 @@ color:white;
 
 h2{
     float: right;
-    border: 1px solid black;
+    border:1px solid black;
     font-family: Helvetica;
     font-size:30px;
     padding: 5px 20px 5px 20px;
@@ -28,7 +28,7 @@ h2{
 
 p{
     clear: right;
-    padding-left:40px;
+    padding-left:50px;
     font-family: Arial;
     width: 90%;
 color:white

@@ -10,7 +10,7 @@ h1{
 .container {
     border: 1px solid black;
     background-color: brown;
-    height: 300px;
+    height: 250px;
     overflow: auto;
 color:white;
 }
@@ -28,9 +28,9 @@ h2{
 
 p{
     clear: right;
-    padding-left:50px;
+    padding-left:40px;
     font-family: Arial;
-    width: 90%;
+    width: 100%;
 color:white
 
 }

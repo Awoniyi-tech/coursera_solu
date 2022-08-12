@@ -10,7 +10,7 @@ h1{
 .container {
     border: 1px solid black;
     background-color: brown;
-    height: 250px;
+    height: 200px;
     overflow: auto;
 color:white;
 }

@@ -26,6 +26,7 @@ h2{
     margin-bottom: 20px;
 width:150px;
 color:white;
+position: absolute;
 
 }
 
@@ -34,7 +35,6 @@ p{
     padding-left: 20px;
     font-family: Arial;
     width: 90%;
-height:180px;
 }
 
 .chicken {

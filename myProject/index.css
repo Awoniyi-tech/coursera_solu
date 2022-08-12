@@ -6,11 +6,10 @@ h1{
     font-size: 175%;
     font-family: italic;
     text-align: center;
-margin:20px 0 40px 0
 }
 .section {
     border: 1px solid black;
-    background-color: brown;
+    background-color:brown;
     height: 240px;
     overflow: none;
 color:white;
@@ -44,18 +43,18 @@ margin-right:auto;
 }
 
 .chicken {
-    background-color: cadetblue;
+    background-color: tomato;
     color:white;
 }
 
 .beef {
-    background-color: blue;
+    background-color: cadetblue;
     color: white;
 
 }
 
 .sushi {
-    background-color: Tomato;
+    background-color: blue;
     color: white;
 }
 

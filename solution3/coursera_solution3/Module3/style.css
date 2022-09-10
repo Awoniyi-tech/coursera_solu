@@ -1,0 +1,123 @@
+@font-face
+{
+	font-family: pointsoft;
+	src: url("Point Soft Semi Bold.otf") ;
+}
+body {
+  font-size: 16px;
+  color: rgba(34, 33, 33, 0.884);
+  background-color:#f6e9d7;
+  font-family: pointsoft;
+}
+
+#header-nav {
+  background-color:#ffffff;
+  border-radius: 0;
+  border: 1px;
+  min-height: 70px;
+}
+
+.navbar-brand h1 {
+  font-family: lora,serif;
+  color: #557c3e;
+  font-size: 1.8em;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  line-height: .75;
+  text-shadow: 1px 1px 1px #222;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+
+#nav-list a {
+  color:#557c3e;
+  font-weight: bold;
+  border-bottom-color: #557c3e;
+  border-bottom-width: 1px;
+  border-radius: 2px;
+  font-size: 20px;
+}
+
+#nav-list a:hover {
+  background:whitesmoke;
+  color:#557c3e;
+  font-weight: bold;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #557c3e;
+}
+
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+
+#page-title {
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+
+#main-text {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.text-background {
+  height: auto;
+  padding: 20px 40px 20px 40px;
+  background-color:#999999;
+  overflow: hidden;
+}
+
+h1{
+  font-weight: bold;
+  color: #557c3e;
+  text-transform: uppercase;
+  font-family: tangerine;
+  
+  
+}
+#footer-copyright{
+  padding: 50px;
+  text-align: center;
+  font-family: lora, serif ;
+}
+
+.row{
+	margin: 20px;
+}
+
+.content-box{
+	margin: 20px;
+	width: auto;
+	height: auto;
+	color: black;
+	background-color: rgba(0,0,0,0.2);
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	padding: 20px;
+}
+
+#names{
+	text-align: center;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+#menu-item{
+	padding: 0;
+	margin: 0;
+	width: 100%;
+	background-color: white;
+	border-bottom: 1px solid black;
+	color: ;
+	display: block;
+}
+
+#foot{
+    font-weight: bold;
+}
